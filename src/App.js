@@ -1,24 +1,23 @@
+// Imports: Dependencies
 import React from 'react'
-import { Router, Link } from 'react-static'
-import { hot } from 'react-hot-loader'
-//
-import Routes from 'react-static-routes'
 
-import './app.css'
+// Imports: CSS
+import 'bootstrap/dist/css/bootstrap.min.css'
+import './css/footer.css'
+import './css/header.css'
 
+// Imports: Components
+import Footer from './components/Footer'
+import Header from './components/Header'
+
+// React Application
 const App = () => (
-  <Router>
-    <div>
-      <nav>
-        <Link exact to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/blog">Blog</Link>
-      </nav>
-      <div className="content">
-        <Routes />
-      </div>
-    </div>
-  </Router>
+  <div className="content">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.3/semantic.min.css" />
+    <Header />
+    {/* <Footer /> */}
+  </div>
 )
 
-export default hot(module)(App)
+// Exports
+export default App

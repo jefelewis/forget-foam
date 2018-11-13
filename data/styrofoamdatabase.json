@@ -2501,6 +2501,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2536,9 +2546,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "cityclerk@citynmb.com",
+        "city_clerk_phone": "(305) 787-6001"
       }
     },
     {
@@ -2560,9 +2580,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "gmariot@nbvillage.com",
+        "city_clerk_phone": " (305) 756-7171"
       }
     },
     {
@@ -2570,7 +2600,7 @@
       "name": "Surfside",
       "city": "Surfside",
       "county": null,
-      "government_type": "city",
+      "government_type": "town",
       "bans": [
         {
           "ban_type": null,
@@ -2595,9 +2625,17 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "Expanded polystyrene, a petroleum by-product commonly known as Styrofoam, is neither readily recyclable nor biodegradable and takes hundreds to thousands of years or more to degrade in the environment",
+        "Due to the physical properties of polystyrene, the United States Environmental Protection Agency (EPA) states, “that such materials can also have serious impacts on human health, wildlife, the aquatic environment and the economy”",
+        "Expanded polystrene litter presents risks to Surfside's nesting sea turtles and shorebird populations",
+        "Expanded polystyrene contributes to litter on Surfside's streets, beaches and public areas and contains toxic substances that leach into food and drink",
+        "The Town's goal is to replace expanded polystyrene food service articles with reusable, recyclable, or compostable alternatives within the Town",
+        "The Town encourages the use of unleached, non-coated, recylced-content paper food service articles and other fiber-based food service articles when the use of resuable food ware is not feasible"
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "snovoa@townofsurfsidefl.gov",
+        "city_clerk_phone": "(305) 861-4863"
       }
     }
   ],
@@ -2620,6 +2658,16 @@
           "municipal_code_link": null,
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2647,6 +2695,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2670,6 +2728,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2695,6 +2763,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2719,6 +2797,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2742,6 +2830,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2767,6 +2865,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2790,6 +2898,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2815,6 +2933,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2838,6 +2966,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2863,6 +3001,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2886,6 +3034,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2911,6 +3069,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2934,6 +3102,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -2959,6 +3137,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -2982,6 +3170,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3007,6 +3205,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3030,6 +3238,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3055,6 +3273,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3078,6 +3306,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3103,6 +3341,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3126,6 +3374,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3151,6 +3409,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3174,6 +3442,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3199,6 +3477,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3222,6 +3510,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3247,6 +3545,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3270,6 +3578,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3295,6 +3613,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3318,6 +3646,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3343,6 +3681,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3366,6 +3714,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3393,6 +3751,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3417,6 +3785,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3427,7 +3805,7 @@
       "name": "Brunswick",
       "city": "Brunswick",
       "county": null,
-      "government_type": "city",
+      "government_type": "town",
       "bans": [
         {
           "ban_type": null,
@@ -3441,9 +3819,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "smithfm@brunswickme.org",
+        "city_clerk_phone": "(207) 725-6658"
       }
     },
     {
@@ -3465,9 +3853,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_phone": "(207) 725-1720"
       }
     },
     {
@@ -3489,9 +3887,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "escully@southportland.org",
+        "city_clerk_phone": "(207) 767-3201"
       }
     }
   ],
@@ -3515,9 +3923,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "rharris@cityofrahway.com",
+        "city_clerk_phone": "(732) 827-2100"
       }
     }
   ],
@@ -3540,6 +3958,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3565,9 +3993,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_phone": "(516) 676-2000"
       }
     },
     {
@@ -3624,9 +4062,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "karla.moore-love@portlandoregon.gov",
+        "city_clerk_phone": "(503) 823-4086"
       }
     }
   ],
@@ -3658,8 +4106,8 @@
         "The City recognizes the present economic diffculties faced by local businesses in making a transition to recyclable or compostable food packaging and service ware and  finds that an extended timeline for implementation of this Chapter is in the best interest of assisting with local efforts at financial recovery"
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "clerks@issaquahwa.gov",
+        "city_clerk_phone": "(425) 837-3000"
       }
     },
     {
@@ -3681,9 +4129,19 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "jsanders@cityofpt.us",
+        "city_clerk_phone": "(360) 379-5047"
       }
     },
     {
@@ -3712,8 +4170,8 @@
         "Seattle has become a national leader among cities in green house gas reduction and seeks to further that effort through waste reduction and increased recycling"
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "cityclerk@seattle.gov",
+        "city_clerk_phone": "(206) 684‑8344"
       }
     }
   ],
@@ -3748,8 +4206,8 @@
         ""
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "cityclerk@sanmarcostx.gov",
+        "city_clerk_phone": "512-393-8090"
       }
     }
   ]

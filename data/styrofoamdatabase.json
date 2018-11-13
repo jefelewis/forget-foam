@@ -215,15 +215,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -231,15 +235,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -247,15 +255,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -263,15 +275,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -279,15 +295,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -295,15 +315,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -311,15 +335,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -327,15 +355,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -343,15 +375,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -359,15 +395,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -375,15 +415,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -391,15 +435,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -407,15 +455,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": null,
@@ -423,15 +475,19 @@
       "city": null,
       "county": null,
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     },
     {
       "state": "CA",

@@ -55,16 +55,14 @@ const medicinalStates = [
 // React Component: Ordinance
 class Ordinance extends Component {
   renderStates (states) {
-    // { states.map(state => <p key={state.id}>{state}</p>) }
-    // { states.map(state => console.log(state))}
     { return states.map(state => <p key={state}>{state}</p>) }
   }
 
   // Render
   render () {
     return (
-      <div className="ordinance">
-        <div>
+      <div>
+        <div className="ordinance">
           { this.renderStates(recreationalStates) }
         </div>
       </div>

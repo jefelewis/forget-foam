@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import './css/app.css'
 import './css/footer.css'
 import './css/header.css'
+import './css/ordinance.css'
 
 // Imports: Components
 

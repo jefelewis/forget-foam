@@ -470,6 +470,166 @@
       ]
     },
     {
+      "state": "CA",
+      "name": "Hercules",
+      "city": "Hercules",
+      "county": null,
+      "government_type": null,
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Hermosa Beach",
+      "city": "Hermosa Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "12-1332",
+          "ordinance_title": "Ban On Polystyrene Food Service Ware",
+          "ordinance_chapter": "8.64",
+          "ordinance_adoption_date": "09/11/2012",
+          "ordinance_effective_date": "03/10/2013",
+          "ordinance_link": null,
+          "municipal_code_link": "http://www.hermosabch.org/index.aspx?page=719",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Huntington Beach",
+      "city": "Huntington Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Laguna Beach",
+      "city": "Laguna Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": "Disposable Food Containers",
+          "ordinance_chapter": "7.05",
+          "ordinance_adoption_date": "12/04/2007",
+          "ordinance_effective_date": "07/01/2008",
+          "ordinance_link": "1480",
+          "municipal_code_link": "https://qcode.us/codes/lagunabeach/view.php?topic=7-7_05&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Laguna Hills",
+      "city": "Laguna Hills",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Laguna Woods",
+      "city": "Laguna Woods",
+      "county": null,
+      "government_type": null,
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "12-06",
+          "ordinance_title": "Prohibition On Use Of Expanded Or Extruded Polystyrene Food Service Ware",
+          "ordinance_chapter": "4.23",
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": "07/01/2013",
+          "ordinance_link": null,
+          "municipal_code_link": "https://library.municode.com/ca/laguna_woods/codes/code_of_ordinances?nodeId=TIT4HESA_CH4.23PRUSEXEXPOFOSEWA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Livermore",
+      "city": "Livermore",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": null,
+      "name": null,
+      "city": null,
+      "county": null,
+      "government_type": null,
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": null,
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
+    },
+    {
       "state": null,
       "name": null,
       "city": null,

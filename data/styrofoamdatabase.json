@@ -210,11 +210,11 @@
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Capitola",
+      "city": "Capitola",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
@@ -225,16 +225,16 @@
           "ordinance_effective_date": null,
           "ordinance_link": null,
           "municipal_code_link": null,
-          "complete": null
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Carmel",
+      "city": "Carmel",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
@@ -245,36 +245,36 @@
           "ordinance_effective_date": null,
           "ordinance_link": null,
           "municipal_code_link": null,
-          "complete": null
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Carpenteria",
+      "city": "Carpenteria",
       "county": null,
       "government_type": null,
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
+          "ordinance": "719",
+          "ordinance_title": "Regulating Expanded Polystyrene Food Containers And Products",
+          "ordinance_chapter": "8.50",
+          "ordinance_adoption_date": "11/27/2017",
           "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance_link": "https://library.municode.com/ca/carpinteria/ordinances/code_of_ordinances?nodeId=864808",
+          "municipal_code_link": "https://library.municode.com/ca/carpinteria/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.50REEXPOFOCOPR",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Culver City",
+      "city": "Culver City",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
@@ -285,187 +285,187 @@
           "ordinance_effective_date": null,
           "ordinance_link": null,
           "municipal_code_link": null,
-          "complete": null
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Dana Point",
+      "city": "Dana Point",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance": "12-03",
+          "ordinance_title": "Expanded Polystyrene Food Service Ware",
+          "ordinance_chapter": "6.46",
+          "ordinance_adoption_date": " 02/21/2012",
+          "ordinance_effective_date": "08/21/2012",
+          "ordinance_link": "http://www.danapoint.org/home/showdocument?id=11029",
+          "municipal_code_link": "http://qcode.us/codes/danapoint/view.php?topic=6-6_46&frames=on",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Del Rey Oaks",
+      "city": "Del Rey Oaks",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
+          "ordinance": "269",
+          "ordinance_title": "Polystyrene Food Packaging",
+          "ordinance_chapter": "8.30",
+          "ordinance_adoption_date": "11/17/2009",
           "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/56a67372fb36b1b8a451620f/1453749115090/Polystyrene+styrofoam+Ord+269+%28signed%29.pdf",
+          "municipal_code_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/56a67372fb36b1b8a451620f/1453749115090/Polystyrene+styrofoam+Ord+269+%28signed%29.pdf",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "El Cerrito",
+      "city": "El Cerrito",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance": "2013-04",
+          "ordinance_title": "Foodware Regulations",
+          "ordinance_chapter": "8.24",
+          "ordinance_adoption_date": "01/01/2014",
+          "ordinance_effective_date": "07/01/2014",
+          "ordinance_link": "https://www.el-cerrito.org/DocumentCenter/View/3002/130917-5c",
+          "municipal_code_link": "https://library.municode.com/ca/el_cerrito/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.24FORE",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Emeryville",
+      "city": "Emeryville",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance": "07-004",
+          "ordinance_title": "Food Service Waste Reduction",
+          "ordinance_chapter": "14.6",
+          "ordinance_adoption_date": "04/03/2007",
+          "ordinance_effective_date": "01/01/2008",
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/56a6731a1a520315050cbb91/1453749018885/EcoFood-WareOrdinance.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/CA/Emeryville/html/Emeryville06/Emeryville0614.html",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Fairfax",
+      "city": "Fairfax",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
+          "ordinance": "623",
+          "ordinance_title": "Polystyrene Foam, Degradable And Recyclable Food Packaging",
+          "ordinance_chapter": "8.16",
           "ordinance_adoption_date": null,
           "ordinance_effective_date": null,
           "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "municipal_code_link": "http://library.amlegal.com/nxt/gateway.dll/California/fairfax_ca/title8healthandsafety/chapter816polystyrenefoamdegradableandre?f=templates$fn=document-frameset.htm$q=%5Brank%3A%5Bsum%3A%5Bstem%3Apolystyrene%5D%5D%5D$x=server$3.0#LPHit1",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Foster City",
+      "city": "Foster City",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance": "567",
+          "ordinance_title": "Prohibition On The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
+          "ordinance_chapter": "8.08",
+          "ordinance_adoption_date": "10/17/2011",
+          "ordinance_effective_date": "04/01/2012",
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/56a6745aa12f4467ff368a34/1453749338919/foodpackaingordinance_fostercity.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/CA/FosterCity/?FosterCity08/FosterCity0808.html&?f",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Fremont",
+      "city": "Fremont",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
+          "ordinance": "10-2010",
+          "ordinance_title": "Solid Waste, Recyclables And Organics Management",
+          "ordinance_chapter": " 8.40",
           "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
+          "ordinance_effective_date": "01/01/2011",
           "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "municipal_code_link": "http://www.codepublishing.com/CA/Fremont/html/Fremont08/Fremont0840.html",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Half Moon Bay",
+      "city": "Half Moon Bay",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
+          "ordinance": "C-6-11",
+          "ordinance_title": "Prohibition On The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
+          "ordinance_chapter": "7.30",
           "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
+          "ordinance_effective_date": "08/01/2011",
           "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "municipal_code_link": "http://www.codepublishing.com/CA/HalfMoonBay/html/HalfMoonBay07/HalfMoonBay0730.html#7.30",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Hayward",
+      "city": "Hayward",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
+          "ordinance": "10-12",
+          "ordinance_title": "Polystyrene Foam Disposable Food Service Ware Prohibited; Recyclable Or Compostable Food Service Ware Required",
+          "ordinance_chapter": "5.11",
+          "ordinance_adoption_date": "10/19/2010",
+          "ordinance_effective_date": "07/01/2011",
           "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "municipal_code_link": "https://library.municode.com/ca/hayward/codes/municipal_code?nodeId=HAYWARD_MUNICIPAL_CODE_CH5SAHE_ART11POFODIFOSEWAPRRECOFOSEWARE",
+          "complete": false
         }
       ]
     },

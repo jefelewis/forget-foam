@@ -6,15 +6,19 @@
       "city": "Bethal",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "09-12",
-      "ordinance_title": "Plastic Bags And Polystyrene Containers",
-      "ordinance_chapter": "8.12",
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=50&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fAK%2fBethel&HitCount=11&hits=7+f+21+ea+f0+117+1c0+1e0+1ea+1fb+2ad+&SearchForm=D%3A%5Cinetpub%5Cwwwroot%5Cpublic_html%5CAK%5CBethel%5CBethel_form.html",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "09-12",
+          "ordinance_title": "Plastic Bags And Polystyrene Containers",
+          "ordinance_chapter": "8.12",
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=50&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fAK%2fBethel&HitCount=11&hits=7+f+21+ea+f0+117+1c0+1e0+1ea+1fb+2ad+&SearchForm=D%3A%5Cinetpub%5Cwwwroot%5Cpublic_html%5CAK%5CBethel%5CBethel_form.html",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "AK",
@@ -22,15 +26,19 @@
       "city": "Cordova",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "1137",
-      "ordinance_title": "Plastic Bags And Polystyrene Containers",
-      "ordinance_chapter": "8.37",
-      "ordinance_adoption_date": "11/18/2015",
-      "ordinance_effective_date": "10/01/2016",
-      "ordinance_link": "http://www.cityofcordova.net/images//cityclerk/2015/Ordinances/Ordinance%201137%20(sub)%20adopting%208.37%20governing%20use%20of%20plastic%20bags.pdf",
-      "municipal_code_link": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.37PLBAPOCO",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1137",
+          "ordinance_title": "Plastic Bags And Polystyrene Containers",
+          "ordinance_chapter": "8.37",
+          "ordinance_adoption_date": "11/18/2015",
+          "ordinance_effective_date": "10/01/2016",
+          "ordinance_link": "http://www.cityofcordova.net/images//cityclerk/2015/Ordinances/Ordinance%201137%20(sub)%20adopting%208.37%20governing%20use%20of%20plastic%20bags.pdf",
+          "municipal_code_link": "https://library.municode.com/ak/cordova/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.37PLBAPOCO",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "AK",
@@ -38,15 +46,19 @@
       "city": "Fort Yukon",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "05-02",
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": "07/13/2004",
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "05-02",
+          "ordinance_title": null,
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": "07/13/2004",
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": null
+        }
+      ]
     }
   ],
   "CA": [
@@ -56,15 +68,19 @@
       "city": "Alameda",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "2977",
-      "ordinance_title": "Polystyrene Foam Food Service Ware",
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2977",
+          "ordinance_title": "Polystyrene Foam Food Service Ware",
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -72,15 +88,19 @@
       "city": null,
       "county": "Alameda",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -88,15 +108,19 @@
       "city": "Albany",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "08-02",
-      "ordinance_title": "Polystyrene Foam, Degradable and Recyclable Food Packaging",
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "08-02",
+          "ordinance_title": "Polystyrene Foam, Degradable and Recyclable Food Packaging",
+          "ordinance_chapter": null,
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": null,
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -104,15 +128,19 @@
       "city": "Aliso Viejo",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -120,15 +148,19 @@
       "city": "Arroyo Grande",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "676",
-      "ordinance_title": "Expanded Polystyrene",
-      "ordinance_chapter": "8.34",
-      "ordinance_adoption_date": "02/09/2016",
-      "ordinance_effective_date": "08/09/2016",
-      "ordinance_link": "http://www.arroyogrande.org/DocumentCenter/View/3008/Ordinance-676",
-      "municipal_code_link": "https://library.municode.com/ca/arroyo_grande/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.34EXPO",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "676",
+          "ordinance_title": "Expanded Polystyrene",
+          "ordinance_chapter": "8.34",
+          "ordinance_adoption_date": "02/09/2016",
+          "ordinance_effective_date": "08/09/2016",
+          "ordinance_link": "http://www.arroyogrande.org/DocumentCenter/View/3008/Ordinance-676",
+          "municipal_code_link": "https://library.municode.com/ca/arroyo_grande/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.34EXPO",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -136,15 +168,19 @@
       "city": "Belmont",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "1065",
-      "ordinance_title": "Prohibition Of The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
-      "ordinance_chapter": "31.11",
-      "ordinance_adoption_date": "03/01/2011",
-      "ordinance_effective_date": "10/01/2012",
-      "ordinance_link": "https://library.municode.com/ca/belmont/codes/code_of_ordinances?nodeId=CICO_CH31WARE_ARTIIPOFOSEWA_S31-11ADSAMACOORCOCH4.107PRUSPOBADIFOSEWAFOVE",
-      "municipal_code_link": "https://www.belmont.gov/home/showdocument?id=68",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1065",
+          "ordinance_title": "Prohibition Of The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
+          "ordinance_chapter": "31.11",
+          "ordinance_adoption_date": "03/01/2011",
+          "ordinance_effective_date": "10/01/2012",
+          "ordinance_link": "https://library.municode.com/ca/belmont/codes/code_of_ordinances?nodeId=CICO_CH31WARE_ARTIIPOFOSEWA_S31-11ADSAMACOORCOCH4.107PRUSPOBADIFOSEWAFOVE",
+          "municipal_code_link": "https://www.belmont.gov/home/showdocument?id=68",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -152,15 +188,19 @@
       "city": "Berkeley",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "5888-NS",
-      "ordinance_title": "Polystyrene Foam, Degradable And Recyclable Food Packaging",
-      "ordinance_chapter": "11.60",
-      "ordinance_adoption_date": "10/11/1988",
-      "ordinance_effective_date": "01/01/1990",
-      "ordinance_link": "https://www.cityofberkeley.info/uploadedFiles/Planning_and_Development/Level_3_-_Energy_and_Sustainable_Development/Food%20Packaging.pdf",
-      "municipal_code_link": "http://www.codepublishing.com/CA/Berkeley/html/Berkeley11/Berkeley1160/Berkeley1160.html",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "5888-NS",
+          "ordinance_title": "Polystyrene Foam, Degradable And Recyclable Food Packaging",
+          "ordinance_chapter": "11.60",
+          "ordinance_adoption_date": "10/11/1988",
+          "ordinance_effective_date": "01/01/1990",
+          "ordinance_link": "https://www.cityofberkeley.info/uploadedFiles/Planning_and_Development/Level_3_-_Energy_and_Sustainable_Development/Food%20Packaging.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/CA/Berkeley/html/Berkeley11/Berkeley1160/Berkeley1160.html",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -168,15 +208,19 @@
       "city": "Burlingame",
       "county": null,
       "government_type": "city",
-      "ban_type": null,
-      "ordinance": "1861",
-      "ordinance_title": "Prohibition Of The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
-      "ordinance_chapter": "8.10",
-      "ordinance_adoption_date": "05/16/2011",
-      "ordinance_effective_date": "01/01/2012",
-      "ordinance_link": null,
-      "municipal_code_link": "https://qcode.us/codes/burlingame/view.php?topic=8-8_10&highlightWords=polystyrene",
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1861",
+          "ordinance_title": "Prohibition Of The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
+          "ordinance_chapter": "8.10",
+          "ordinance_adoption_date": "05/16/2011",
+          "ordinance_effective_date": "01/01/2012",
+          "ordinance_link": null,
+          "municipal_code_link": "https://qcode.us/codes/burlingame/view.php?topic=8-8_10&highlightWords=polystyrene",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -655,15 +699,19 @@
       "city": null,
       "county": "Los Angeles",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -744,15 +792,19 @@
       "city": null,
       "county": "Marin",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": "01/01/2020",
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "01/01/2020",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -800,15 +852,19 @@
       "city": null,
       "county": "Mendocino",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -876,15 +932,19 @@
       "city": null,
       "county": "Monterey",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -2626,15 +2686,19 @@
       "city": null,
       "county": "Albany",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": "05/01/2014",
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "05/01/2014",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "NY",
@@ -2781,249 +2845,6 @@
           "complete": false
         }
       ]
-    },
-    {
-      "state": "TX",
-      "name": "",
-      "city": "",
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    },
-    {
-      "state": "TX",
-      "name": "",
-      "city": "",
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    },
-    {
-      "state": "TX",
-      "name": "",
-      "city": "",
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    }
-  ],
-  "STATE": [
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    }
-  ],
-  "STATE": [
-    
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    }
-  ],
-  "STATE": [
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
-    },
-    {
-      "state": null,
-      "name": null,
-      "city": null,
-      "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
     }
   ]
 }

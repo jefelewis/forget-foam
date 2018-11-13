@@ -1642,15 +1642,77 @@
     {
       "state": "FL",
       "name": "Bal Harbour",
-      "city": null,
+      "city": "Bal Harbour",
       "county": null,
       "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "Prohibitions Of Polystyrene ",
+          "ordinance": "577",
+          "ordinance_title": "Prohibitions Of Polystyrene",
           "ordinance_chapter": "11.4 ",
+          "ordinance_adoption_date": "11/18/2014",
+          "ordinance_effective_date": "11/18/2014",
+          "ordinance_link": "https://www.balharbourpublicrecords.com/pdf/v100/PC0006598.pdf",
+          "municipal_code_link": "https://library.municode.com/fl/bal_harbour/codes/code_of_ordinances?nodeId=PTIICOOR_CH11NU_ARTIINGE_S11-4PRPO",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "Bay Harbor Islands",
+      "city": "Bay Harbor Islands",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "973",
+          "ordinance_title": "Prohibition Of Expanded Polystyrene Products",
+          "ordinance_chapter": "9.27",
+          "ordinance_adoption_date": "03/09/2015",
+          "ordinance_effective_date": "05/01/2015",
+          "ordinance_link": "https://library.municode.com/fl/bay_harbor_islands/ordinances/code_of_ordinances?nodeId=707322",
+          "municipal_code_link": "https://library.municode.com/fl/bay_harbor_islands/codes/code_of_ordinances?nodeId=PTIICOOR_CH9SOWACO_ARTIICO_S9-27PREXPOPR",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "Coral Gables",
+      "city": "Coral Gables",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Prohibition On Use Of Expanded Polystyrene",
+          "ordinance_chapter": "62.262",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Prohibition On Use Of Expanded Polystyrene By City Vendors/Contractor",
+          "ordinance_chapter": "2.730",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Sale, Use Or Distribution Of Expanded Polystyrene By Businesses Within The City",
+          "ordinance_chapter": "34.263",
           "ordinance_adoption_date": "",
           "ordinance_effective_date": "",
           "ordinance_link": "",
@@ -1661,8 +1723,90 @@
     },
     {
       "state": "FL",
-      "name": "",
-      "city": null,
+      "name": "Hollywood",
+      "city": "Hollywood",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Requirements For Establishments That Dispense Disposable Food Service Products",
+          "ordinance_chapter": "97.05",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://library.amlegal.com/nxt/gateway.dll/Florida/holywood/titleixgeneralregulations/chapter97littering?f=templates$fn=document-frameset.htm$q=%5Brank%3A%5Bsum%3A%5Bstem%3Apolystyrene%5D%5D%5D$x=server$3.0#LPHit1",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "Key Biscayne",
+      "city": "Key Biscayne",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2014-10",
+          "ordinance_title": "Prohibition Regarding Sale Or Use Of Expanded Polystyrene Food Service Articles By Village Contractors",
+          "ordinance_chapter": "7.1",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/fl/key_biscayne/codes/code_of_ordinances?nodeId=PTIICO_CH7BURE_ARTIINGE_S7-1PRRESAUSEXPOFOSEARVICO",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "2014-10",
+          "ordinance_title": "Prohibition Of Expanded Polystyrene",
+          "ordinance_chapter": "19.17",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/fl/key_biscayne/codes/code_of_ordinances?nodeId=PTIICO_CH19PARURE_S19-17PREXPO",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "Miami Beach",
+      "city": "Miami Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2015-3962",
+          "ordinance_title": "Expanded Polystyrene Sale And Use Restrictions For Food Service Articles",
+          "ordinance_chapter": "46.2",
+          "ordinance_adoption_date": "09/02/2015",
+          "ordinance_effective_date": "09/12/2015",
+          "ordinance_link": "http://www.filmiami.org/pdf/2015/Ordinance-2015-3962.pdf",
+          "municipal_code_link": "https://library.municode.com/fl/miami_beach/codes/code_of_ordinances?nodeId=SPAGEOR_CH46EN_ARTVIEXPOSAUSREFOSEAR",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "2006-3525",
+          "ordinance_title": "Expanded Polystyrene Restrictions For Floating Docks, Floating Platforms, And Bouys",
+          "ordinance_chapter": "46.2",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/fl/miami_beach/codes/code_of_ordinances?nodeId=SPAGEOR_CH46EN_ARTVIIEXPOREFLDOFLPLBU",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "North Bay Village",
+      "city": "North Bay Village",
       "county": null,
       "government_type": "city",
       "bans": [
@@ -1681,104 +1825,35 @@
     },
     {
       "state": "FL",
-      "name": "",
-      "city": null,
+      "name": "Surfside",
+      "city": "Surfside",
       "county": null,
       "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
+          "ordinance": "1639",
+          "ordinance_title": "Expanded Polystyrene (Styrofoam) Food Service Articles",
+          "ordinance_chapter": "34",
+          "ordinance_adoption_date": "11/10/2015",
+          "ordinance_effective_date": "11/10/2015",
+          "ordinance_link": "https://library.municode.com/fl/surfside/ordinances/code_of_ordinances?nodeId=874909",
           "municipal_code_link": "",
           "complete": false
-        }
-      ]
-    },
-    {
-      "state": "FL",
-      "name": "",
-      "city": null,
-      "county": null,
-      "government_type": "city",
-      "bans": [
+        },
         {
           "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
+          "ordinance": "1676",
+          "ordinance_title": "Expanded Polystyrene (Styrofoam) Food Service Articles",
+          "ordinance_chapter": "34",
+          "ordinance_adoption_date": "03/13/2018",
+          "ordinance_effective_date": "03/13/2018",
+          "ordinance_link": "https://library.municode.com/fl/surfside/ordinances/code_of_ordinances?nodeId=883055",
+          "municipal_code_link": "https://library.municode.com/fl/surfside/codes/code_of_ordinances?nodeId=PTIICO_CH34EN_ARTIINGE_DIV3EXPOSTFOSEAR",
           "complete": false
         }
       ]
-    },
-    {
-      "state": "FL",
-      "name": "",
-      "city": null,
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    },
-    {
-      "state": "FL",
-      "name": "",
-      "city": null,
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    },
-    {
-      "state": "FL",
-      "name": "",
-      "city": null,
-      "county": null,
-      "government_type": "city",
-      "bans": [
-        {
-          "ban_type": null,
-          "ordinance": "",
-          "ordinance_title": "",
-          "ordinance_chapter": "",
-          "ordinance_adoption_date": "",
-          "ordinance_effective_date": "",
-          "ordinance_link": "",
-          "municipal_code_link": "",
-          "complete": false
-        }
-      ]
-    },
+    }
   ],
   "HI": [
     {
@@ -1798,6 +1873,752 @@
       "complete": false
     }
   ],
+  "MA": [
+    {
+      "state": "MA",
+      "name": "Abington",
+      "city": "Abington",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Amherst",
+      "city": "Amherst",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "01/01/2014",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Andover",
+      "city": "Andover",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Brookline",
+      "city": "Brookline",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "",
+      "city": "",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Cambridge",
+      "city": "Cambridge",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Concord",
+      "city": "Concord",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Dennis",
+      "city": "Dennis",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Gloucester",
+      "city": "Gloucester",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Great Barrington",
+      "city": "Great Barrington",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Greenfield",
+      "city": "Greenfield",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Hamilton",
+      "city": "Hamilton",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Ipswich",
+      "city": "Ipswich",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "",
+      "city": "",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Lee",
+      "city": "Lee",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Lenox",
+      "city": "Lenox",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Marblehead",
+      "city": "Marblehead",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Nantucket",
+      "city": "Nantucket",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Natick",
+      "city": "Natick",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Orleans",
+      "city": "Orleans",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Pittsfield",
+      "city": "Pittsfield",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Provincetown",
+      "city": "Provincetown",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Somerville",
+      "city": "Somerville",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "South Hadley",
+      "city": "South Hadley",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Stockbridge",
+      "city": "Stockbridge",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Wayland",
+      "city": "Wayland",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Wellfleet",
+      "city": "Wellfleet",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Westfield",
+      "city": "Westfield",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Westford",
+      "city": "Westford",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Williamstown",
+      "city": "Williamstown",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "MA",
+      "name": "Winthrop",
+      "city": "Winthrop",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "ME": [
+    {
+      "state": "ME",
+      "name": "Freeport",
+      "city": "Freeport",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "name": "Portland",
+      "city": "Portland",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "04/15/2015",
+          "ordinance_link": "https://www.portlandmaine.gov/DocumentCenter/View/20100/City-of-Portland-Polystyrene-Foam-Ban-Ordinance?bidId=",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "name": "Brunswick",
+      "city": "Brunswick",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Consumer Packaging",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "03/21/2016",
+          "ordinance_effective_date": "10/01/2016",
+          "ordinance_link": "http://www.brunswickme.org/wp-content/uploads/2016/03/Polystyrene-Foam-Ban-03-21-16.pdf",
+          "municipal_code_link": "http://www.brunswickme.org/wp-content/uploads/2016/08/Polystyrene-Foam-Ban-New-format.pdf",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "name": "Topsham",
+      "city": "Topsham",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "05/07/2017",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "ME",
+      "name": "South Portland",
+      "city": "South Portland",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "03/16/2016",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "NJ": [
+    {
+      "state": "NJ",
+      "name": "Rahway",
+      "city": "Rahway",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "0-53-96",
+          "ordinance_title": "Food Establishments And Vendors, Retail",
+          "ordinance_chapter": "217",
+          "ordinance_adoption_date": "12/09/1996",
+          "ordinance_effective_date": "01/01/1997",
+          "ordinance_link": "",
+          "municipal_code_link": "https://ecode360.com/9583911?highlight=polystyrene#9583911",
+          "complete": false
+        }
+      ]
+    }
+  ],
   "NY": [
     {
       "state": "NY",
@@ -1814,15 +2635,33 @@
       "ordinance_link": null,
       "municipal_code_link": null,
       "complete": false
-    }
-  ],
-  "WA": [
+    },
     {
-      "state": "WA",
-      "name": "San Juan County",
-      "city": null,
-      "county": "San Juan County",
-      "government_type": "county",
+      "state": "NY",
+      "name": "Glen Cove",
+      "city": "Glen Cove",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "235.15",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://ecode360.com/12086917?highlight=polystyrene#12086917",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "NY",
+      "name": "New York City",
+      "city": "New York City",
+      "county": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
@@ -1838,87 +2677,170 @@
       ]
     }
   ],
-  "STATE": [
-    
+  "OR": [
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "NY",
+      "name": "Portland",
+      "city": "Portland",
       "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "17.102.300",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "WA": [
+    {
+      "state": "WA",
+      "name": "Issaquah",
+      "city": "Issaquah",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2565",
+          "ordinance_title": "Food Packaging",
+          "ordinance_chapter": "8.07",
+          "ordinance_adoption_date": "11/16/2009",
+          "ordinance_effective_date": "11/30/2009",
+          "ordinance_link": "https://issaquah.civicweb.net/filepro/document/5692/ISSCITO20091116_2565.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=53&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fWA%2fIssaquah&HitCount=15&hits=17+126+1ea+1ed+200+21e+229+29d+2cb+2fd+316+34b+37a+3b8+401+&SearchForm=D%3A%5Cinetpub%5Cwwwroot%5Cpublic_html%5CWA%5CIssaquah%5CIssaquah_form.html",
+          "complete": false
+        }
+      ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "WA",
+      "name": "",
+      "city": "",
       "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "3192",
+          "ordinance_title": "Unlawful Use Of Harmful Packaging Materials",
+          "ordinance_chapter": "6.20",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=255&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fWA%2fPortTownsend&HitCount=2&hits=d9+16a+&SearchForm=html%3A%2FWA%2FPortTownsend%2Fsearch_formSML.html",
+          "complete": false
+        }
+      ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "WA",
+      "name": "Seattle",
+      "city": "Seattle",
       "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "122751",
+          "ordinance_title": "Prohibition On Use Of Expanded Polystyrene Food Service Products",
+          "ordinance_chapter": "21.36.084",
+          "ordinance_adoption_date": "07/30/2008",
+          "ordinance_effective_date": "01/01/2009",
+          "ordinance_link": "http://clerk.seattle.gov/~archives/Ordinances/Ord_122751.pdf",
+          "municipal_code_link": "https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT21UT_SUBTITLE_IIISOWA_CH21.36SOWACO_SUBCHAPTER_IISOWACO_21.36.084PRUSEXPOFOSEPR",
+          "complete": false
+        }
+      ]
+    }
+  ],
+  "TX": [
+    {
+      "state": "TX",
+      "name": "San Marcos",
+      "city": "San Marcos",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "TX",
+      "name": "",
+      "city": "",
       "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "TX",
+      "name": "",
+      "city": "",
       "county": null,
-      "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": null
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "TX",
+      "name": "",
+      "city": "",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     }
   ],
   "STATE": [

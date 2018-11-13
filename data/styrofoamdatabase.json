@@ -610,31 +610,31 @@
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Los Altos Hills",
+      "city": "Los Altos Hills",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
-          "municipal_code_link": null,
-          "complete": null
+          "ordinance": "534",
+          "ordinance_title": "Expanded Polystyrene And Nonrecyclable Food Service Container",
+          "ordinance_chapter": "7.6",
+          "ordinance_adoption_date": "04/19/2012",
+          "ordinance_effective_date": "06/15/2012",
+          "ordinance_link": "https://www.losaltoshills.ca.gov/DocumentCenter/View/198/Ordinance-Banning-the-Use-of-Polystyrene-PDF",
+          "municipal_code_link": "https://qcode.us/codes/losaltoshills/view.php?topic=6-7&showAll=1&frames=on",
+          "complete": false
         }
       ]
     },
     {
-      "state": null,
-      "name": null,
-      "city": null,
+      "state": "CA",
+      "name": "Los Angeles",
+      "city": "Los Angeles",
       "county": null,
-      "government_type": null,
+      "government_type": "city",
       "bans": [
         {
           "ban_type": null,
@@ -645,7 +645,7 @@
           "ordinance_effective_date": null,
           "ordinance_link": null,
           "municipal_code_link": null,
-          "complete": null
+          "complete": false
         }
       ]
     },
@@ -667,6 +667,79 @@
     },
     {
       "state": "CA",
+      "name": "Malibu",
+      "city": "Malibu",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "286",
+          "ordinance_title": "Ban On Plastic Food Packaging And Other Plasticware",
+          "ordinance_chapter": "9.24",
+          "ordinance_adoption_date": "09/12/2005",
+          "ordinance_effective_date": null,
+          "ordinance_link": "https://www.malibucity.org/DocumentCenter/View/431/Ordinance-286",
+          "municipal_code_link": "https://qcode.us/codes/malibu/view.php?topic=9-9_24&showAll=1&frames=on",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "432",
+          "ordinance_title": "Ban On Plastic Food Packaging And Other Plasticware",
+          "ordinance_chapter": "9.24",
+          "ordinance_adoption_date": "02/26/2018",
+          "ordinance_effective_date": "06/01/2018",
+          "ordinance_link": "https://qcode.us/codes/malibu/revisions/432.pdf",
+          "municipal_code_link": "https://qcode.us/codes/malibu/view.php?topic=9-9_24&showAll=1&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Manhattan Beach",
+      "city": "Manhattan Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1782",
+          "ordinance_title": "Prohibition On The Distribution And Sale Of Certain Polystyrene Products",
+          "ordinance_chapter": "5.80",
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": "10/20/1988",
+          "ordinance_link": null,
+          "municipal_code_link": "https://library.municode.com/ca/manhattan_beach/codes/code_of_ordinances?nodeId=TIT5SAHE_CH5.80PRDISACEPOPR",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "13-009",
+          "ordinance_title": "Prohibition On The Distribution And Sale Of Certain Polystyrene Products",
+          "ordinance_chapter": "5.80",
+          "ordinance_adoption_date": " 09/10/2013",
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": "https://library.municode.com/ca/manhattan_beach/codes/code_of_ordinances?nodeId=TIT5SAHE_CH5.80PRDISACEPOPR",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "14-0003",
+          "ordinance_title": "Prohibition On The Distribution And Sale Of Certain Polystyrene Products",
+          "ordinance_chapter": "5.80",
+          "ordinance_adoption_date": "04/01/2014",
+          "ordinance_effective_date": null,
+          "ordinance_link": "https://static1.squarespace.com/static/5522e85be4b0b65a7c78ac96/t/58f4ff11e4fcb5d1c4c8186a/1492451090621/5gyres-foamfree-sample-ban-manhattan-beach.pdf",
+          "municipal_code_link": "https://library.municode.com/ca/manhattan_beach/codes/code_of_ordinances?nodeId=TIT5SAHE_CH5.80PRDISACEPOPR",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
       "name": "Marin County",
       "city": null,
       "county": "Marin",
@@ -680,6 +753,46 @@
       "ordinance_link": null,
       "municipal_code_link": null,
       "complete": false
+    },
+    {
+      "state": "CA",
+      "name": "Marina",
+      "city": "Marina",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2011-06",
+          "ordinance_title": "Polystyrene Food Packaging",
+          "ordinance_chapter": "8.50",
+          "ordinance_adoption_date": null,
+          "ordinance_effective_date": null,
+          "ordinance_link": null,
+          "municipal_code_link": "http://www.codepublishing.com/CA/Marina/html/Marina08/Marina0850.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Menlo Park",
+      "city": "Menlo Park",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "984",
+          "ordinance_title": "Prohibition On The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors (Adopted San Mateo County Ordinance Code Chapter 4.107)",
+          "ordinance_chapter": "7.14",
+          "ordinance_adoption_date": "08/28/2012",
+          "ordinance_effective_date": "11/01/2012",
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/559ab4eee4b0d2540b734c86/1436202222907/MenloPark+EPS+Ordinance.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/CA/MenloPark/html/MenloPark07/MenloPark0714.html",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -699,6 +812,66 @@
     },
     {
       "state": "CA",
+      "name": "Mill Valley",
+      "city": "Mill Valley",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1240",
+          "ordinance_title": "Environmentally Preferable Food Packaging",
+          "ordinance_chapter": "7.30",
+          "ordinance_adoption_date": "08/03/2009",
+          "ordinance_effective_date": "11/02/2009",
+          "ordinance_link": "http://www.cityofmillvalley.org/civicax/filebank/blobdload.aspx?BlobID=24714",
+          "municipal_code_link": "http://www.qcode.us/codes/millvalley/view.php?topic=7-7_30&showAll=1&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Millbrae",
+      "city": "Millbrae",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "717",
+          "ordinance_title": "Sustainable Food Service Ware",
+          "ordinance_chapter": "6.40",
+          "ordinance_adoption_date": "10/09/2007",
+          "ordinance_effective_date": "01/01/2008",
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/56a67b221115e080c4e23b5c/1453751075428/SustainFoodwareOrd.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/CA/Millbrae/#!/Millbrae06/Millbrae0640.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Monterey",
+      "city": "Monterey",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "3426",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "https://monterey.org/Portals/0/Policies-Procedures/EnvironPrograms/EPS/PS-Ordinance3426.pdf",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
       "name": "Monterey County",
       "city": null,
       "county": "Monterey",
@@ -715,19 +888,443 @@
     },
     {
       "state": "CA",
+      "name": "Morgan Hill",
+      "city": "Morgan Hill",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2090",
+          "ordinance_title": "Environmentally Acceptable Food Containers And Service Ware",
+          "ordinance_chapter": "8.56",
+          "ordinance_adoption_date": "11/06/2013",
+          "ordinance_effective_date": "04/22/2014",
+          "ordinance_link": "https://www.morgan-hill.ca.gov/DocumentCenter/View/11372/City-of-Morgan-Hill-EPS-Ordinance-No-2090",
+          "municipal_code_link": "https://library.municode.com/ca/morgan_hill/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.56ENACFOCOSEWA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Newport Beach",
+      "city": "Newport Beach",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2008-17",
+          "ordinance_title": "Use Of Expanded Polystyrene Disposable Food Service Ware",
+          "ordinance_chapter": "6.05",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/CA/NewportBeach/html/NewportBeach06/NewportBeach0605.html#6.05.010 ",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Novato",
+      "city": "Novato",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1577",
+          "ordinance_title": "Prohibition On Use Of Polystyrene Foam Disposable Food Packaging",
+          "ordinance_chapter": "7.6",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "01/01/2014",
+          "ordinance_link": "http://cms6ftp.visioninternet.com/novato/agendas/pdfstaffreports/050713_F-5.pdf",
+          "municipal_code_link": "https://library.municode.com/ca/novato/codes/code_of_ordinances?nodeId=CHVIIHE_7-6PRUSPOFODIFOPA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Oakland",
+      "city": "Oakland",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "12747",
+          "ordinance_title": "Polystyrene Foam Food Service Ware",
+          "ordinance_chapter": "8.07",
+          "ordinance_adoption_date": "06/27/2006",
+          "ordinance_effective_date": "01/01/2007",
+          "ordinance_link": "http://www2.oaklandnet.com/oakca1/groups/pwa/documents/report/oak025366.pdf",
+          "municipal_code_link": "https://library.municode.com/ca/oakland/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.07POFOFOSEWA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
       "name": "Orange County",
       "city": null,
       "county": "Orange",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Pacifica",
+      "city": "Pacifica",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "767 - C.S.",
+          "ordinance_title": "Sustainable Food Service Ware",
+          "ordinance_chapter": "5.40",
+          "ordinance_adoption_date": "11/09/2009",
+          "ordinance_effective_date": "01/01/2010",
+          "ordinance_link": "http://www.cityofpacifica.org/civicax/filebank/blobdload.aspx?blobid=3771",
+          "municipal_code_link": "https://library.municode.com/ca/pacifica/codes/code_of_ordinances?nodeId=TIT6SAHE_CH5GACORE_ART4SUFOSEWA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Pacific Grove",
+      "city": "Pacific Grove",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "08-010",
+          "ordinance_title": "Food Packaging",
+          "ordinance_chapter": "11.99",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://www.codepublishing.com/CA/PacificGrove/html/PacificGrove11/PacificGrove1199.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Palo Alto",
+      "city": "Palo Alto",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "5039",
+          "ordinance_title": "Plastic Foam And Non-Recyclable Food Service Containers And Packaging Items",
+          "ordinance_chapter": "5.30",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "04/22/2010",
+          "ordinance_link": "",
+          "municipal_code_link": "http://library.amlegal.com/nxt/gateway.dll/California/paloalto_ca/title5healthandsanitation*/chapter530plasticfoamandnon-recyclablefo?f=templates$fn=document-frameset.htm$q=%5Brank%3A%5Bsum%3A%5Bstem%3Apolystyrene%5D%5D%5D$x=server$3.0#LPHit1",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Pittsburg",
+      "city": "Pittsburg",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "18-1445",
+          "ordinance_title": "Sustainable Food Packaging - Polystyrene Products Regulation",
+          "ordinance_chapter": "8.08",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/CA/Pittsburg/html/Pittsburg08/Pittsburg0808.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Pleasanton",
+      "city": "Pleasanton",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2064",
+          "ordinance_title": "Disposable Food Service Ware",
+          "ordinance_chapter": "9.10",
+          "ordinance_adoption_date": "04/02/2013",
+          "ordinance_effective_date": "07/01/2013",
+          "ordinance_link": "https://static1.squarespace.com/static/54d3a62be4b068e9347ca880/t/59160c6529687f6cdda4fff0/1494617189392/05_Pleasanton_Polystyrene_Ordinance_04162013.pdf",
+          "municipal_code_link": "https://qcode.us/codes/pleasanton/view.php?topic=9-9_10&showAll=1&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Portola Valley",
+      "city": "Portola Valley",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "10/25/2012",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Redwood City",
+      "city": "Redwood City",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "01/01/2013",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Richmond",
+      "city": "Richmond",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "12-13 N.S.",
+          "ordinance_title": "Food Ware Ordinance",
+          "ordinance_chapter": "9.17",
+          "ordinance_adoption_date": "07/16/2013",
+          "ordinance_effective_date": "01/01/2014",
+          "ordinance_link": "http://www.ci.richmond.ca.us/DocumentCenter/View/29254/Stryofoam-Ban-ordinance-update-1114",
+          "municipal_code_link": "https://library.municode.com/ca/richmond/codes/code_of_ordinances?nodeId=ARTIXHE_CH9.17FOWAOR_9.17.010DE",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Salinas",
+      "city": "Salinas",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2519",
+          "ordinance_title": "Environmentally Acceptable Food Packaging",
+          "ordinance_chapter": "14",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/ca/salinas/codes/code_of_ordinances?nodeId=PTIITHCO_CH14GAREWE_ARTIIIENACFOPA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Bruno",
+      "city": "San Bruno",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Sustainable Food Packaging",
+          "ordinance_chapter": "10.21",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "04/01/2010",
+          "ordinance_link": "",
+          "municipal_code_link": "https://qcode.us/codes/sanbruno/view.php?topic=10-10_21&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Carlos",
+      "city": "San Carlos",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1442",
+          "ordinance_title": "Prohibition On The Use Of Polystyrene Based Disposable Food Service Ware By Food Vendors",
+          "ordinance_chapter": "8.27",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "07/01/2012",
+          "ordinance_link": "",
+          "municipal_code_link": "https://www.codepublishing.com/CA/SanCarlos/html_old/SanCarlos08/SanCarlos0827.html#8.27.020",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Clemente",
+      "city": "San Clemente",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1533",
+          "ordinance_title": "Prohibition - On Use Of Expanded Polystyrene Food Service Ware",
+          "ordinance_chapter": "8.30",
+          "ordinance_adoption_date": "01/04/2011",
+          "ordinance_effective_date": "07/01/2011",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/ca/san_clemente/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.30_PROHIBITIONONUSEXPOFOSEWA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Francisco",
+      "city": "San Francisco",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Jose",
+      "city": "San Jose",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Juan Capistrano",
+      "city": "San Juan Capistrano",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Leandro",
+      "city": "San Leandro",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2011-011",
+          "ordinance_title": "Polystyrene Foam Food Service Ware Prohibited",
+          "ordinance_chapter": "3.8",
+          "ordinance_adoption_date": "10/03/2011",
+          "ordinance_effective_date": "11/01/2012",
+          "ordinance_link": "",
+          "municipal_code_link": "https://qcode.us/codes/sanleandro/view.php?topic=3-3_8-1&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Mateo",
+      "city": "San Mateo",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -735,15 +1332,59 @@
       "city": null,
       "county": "San Mateo",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "San Rafael",
+      "city": "San Rafael",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1907",
+          "ordinance_title": "Prohibition On Use Of Polystyrene Foam Disposable Food Packaging",
+          "ordinance_chapter": "10.92",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/ca/san_rafael/codes/code_of_ordinances?nodeId=TIT10BUPROCINTR_CH10.92PRUSPOFODIFOPA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Santa Cruz",
+      "city": "Santa Cruz",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2008-01",
+          "ordinance_title": "Environmentally Acceptable Food Packaging",
+          "ordinance_chapter": "6.48",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/CA/SantaCruz/html/SantaCruz06/SantaCruz0648.html",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -751,15 +1392,19 @@
       "city": null,
       "county": "Santa Clara",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": "02/01/2013",
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "02/01/2013",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -767,15 +1412,39 @@
       "city": null,
       "county": "Santa Cruz",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Santa Monica",
+      "city": "Santa Monica",
+      "county": null,
+      "government_type": "county",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "2216",
+          "ordinance_title": "Nonrecycable Plastic Disposable Food Service Containers",
+          "ordinance_chapter": "5.44",
+          "ordinance_adoption_date": "01/09/2007",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.qcode.us/codes/santamonica/",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",

@@ -1,6 +1,7 @@
 {
   "state": null,
   "city": null,
+  "county": null,
   "government_type": null,
   "ban_type": null,
   "ordinance": null,

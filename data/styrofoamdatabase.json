@@ -354,6 +354,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": "mhasselshearer@burlingame.org",
         "city_clerk_phone": "(650) 558-7200"
@@ -389,6 +399,17 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "Discarded packaging from foods, beverages and other products constitutes a significant and growing portion of Calabasas’s waste stream",
+        "It is in the best interest of health, safety, and welfare of all who live, work and do business in the City that, to the extent feasible, the amount of litter on the public streets, parks, public places, and open spaces to be reduced and that litter which does reach the natural environment be biodegradable",
+        "Replacing non-bio-degradable food packing with biodegradable packing will further protect the public health and safety of the residents, the City’s natural environment, creeks and wildlife",
+        "The minimization of non-degradable, non-returnable and non-recyclable food and beverage packaging originating at retail food establishments within the City is necessary and desirable to reduce the volume of land-filled waste",
+        "Non-biodegradable and non-recyclable materials pose a challenge to any environmentally and financially responsible solid waste management program. Discarded food packaging constitutes a significant and growing portion of the City’s waste stream",
+        "Biodegradable and recyclable products offer environmentally sound alternatives to products currently used. Biodegradable products decay, causing less harm to the environment and the landscape of the City than products now in use",
+        "Use and recycling of those alternative products saves the cost of disposing of waste in landfills and the energy and other resources used in production of new products",
+        "Plastic pollution had proliferated such that there are six times as many bits of plastic waste in the surface layer of the Pacific Ocean as marine life. Plastic waste originating from the United States has been found at Midway Atoll in the far reaches of the Pacific, and every cubic yard of sediment in California’s coastal creeks and streams contains one-half pound of plastic waste",
+        "Bioplastics are commercially available and scientific studies show that these materials biodegrade both in compost and in the natural environment and return their base constituents to the food chain, such materials can be composted even if contaminated with food waste, and sugar cane stock (also known as bagasse) is suitable for hot foods and beverages"
+      ],
       "contact": {
         "city_clerk_email": "mhernandez@cityofcalabasas.com",
         "city_clerk_phone": "(818) 224-1600"
@@ -412,6 +433,16 @@
           "municipal_code_link": null,
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": "lfridy@ci.capitola.ca.us",
@@ -437,6 +468,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": "tgraves@ci.carmel.ca.us",
         "city_clerk_phone": "(831) 620-2000"
@@ -444,8 +485,8 @@
     },
     {
       "state": "CA",
-      "name": "Carpenteria",
-      "city": "Carpenteria",
+      "name": "Carpinteria",
+      "city": "Carpinteria",
       "county": null,
       "government_type": null,
       "bans": [
@@ -456,10 +497,20 @@
           "ordinance_chapter": "8.50",
           "ordinance_adoption_date": "11/27/2017",
           "ordinance_effective_date": null,
-          "ordinance_link": "https://library.municode.com/ca/carpinteria/ordinances/code_of_ordinances?nodeId=864808",
+          "ordinance_link": "https://api.municode.com/CD/Ordinances/16248/864808",
           "municipal_code_link": "https://library.municode.com/ca/carpinteria/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.50REEXPOFOCOPR",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "The City is required under state and federal law to implement policies and programs to protect unique coastal resources and environmentally sensitive habitat areas (California Coastal Act), reduce the amount of waste generated in the community that goes to landfills (AB 939), and prevent storm water runoff from polluting creek and ocean waters (National Pollutant Discharge Elimination System Permit Program and the State Municipal Storm Water Permitting Program)",
+        "The Carpinteria community is attractive to residents, businesses, and visitors due to a local economy and quality of life that is centered on a clean and healthy environment, including but not limited to, parks, public open spaces, creeks, estuary, tidelands and the ocean",
+        "The City Council received testimony and other information documenting the fact that EPS products often find their way into the local environment since EPS breaks down into smaller pieces and is so light that it floats in water and is easily carried by the wind, even when it has been disposed of properly",
+        "numerous studies have documented the prevalence of EPS debris in the environment, including in storm drains and on beaches, negatively impacting the local environment and creating clean-up costs for the City",
+        "EPS can contain potentially harmful constituents such as phthalates, bisphenol A, styrene, vinyl chloride and flame retardants. Research is being conducted to determine whether water leaches these constituents out of plastic products, presenting a threat to the health of humans and wildlife. For example, styrene is a known hazardous substance and a suspected carcinogen and neurotoxin. Medical evidence and the Food and Drug Administration suggest that styrene may penetrate into food and drink stored in polystyrene containers which could potentially threaten the health of humans and wildlife",
+        "Recycling of EPS is currently not available through the City's franchise waste hauler or anywhere in the region and it is not financially feasible for the City to develop such a program",
+        "There are alternatives to EPS food containers available",
+        "it is in the City's interest to establish programs and services that reduce the amount of litter in the environment, in particular beach litter and marine pollution, which increase the quality of life from the City of Carpinteria residents and visitors and protect local wildlife habitat"
       ],
       "contact": {
         "city_clerk_email": "fidelag@ci.carpinteria.ca.us",
@@ -475,15 +526,24 @@
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
-          "ordinance_title": null,
-          "ordinance_chapter": null,
-          "ordinance_adoption_date": null,
-          "ordinance_effective_date": null,
-          "ordinance_link": null,
+          "ordinance": "2017-008",
+          "ordinance_title": "Polystyrene Regulations",
+          "ordinance_chapter": "11.8",
+          "ordinance_adoption_date": "05/08/2017",
+          "ordinance_effective_date": "11/08/2017",
+          "ordinance_link": "https://www.culvercity.org/home/showdocument?id=8040",
           "municipal_code_link": null,
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": "city.clerk@culvercity.org",
@@ -686,6 +746,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -709,6 +779,16 @@
           "municipal_code_link": "http://www.codepublishing.com/CA/Fremont/html/Fremont08/Fremont0840.html",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -734,6 +814,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -757,6 +847,16 @@
           "municipal_code_link": "https://library.municode.com/ca/hayward/codes/municipal_code?nodeId=HAYWARD_MUNICIPAL_CODE_CH5SAHE_ART11POFODIFOSEWAPRRECOFOSEWARE",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -782,6 +882,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -805,6 +915,16 @@
           "municipal_code_link": "http://www.hermosabch.org/index.aspx?page=719",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -830,6 +950,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -844,7 +974,7 @@
       "bans": [
         {
           "ban_type": null,
-          "ordinance": null,
+          "ordinance": "1480",
           "ordinance_title": "Disposable Food Containers",
           "ordinance_chapter": "7.05",
           "ordinance_adoption_date": "12/04/2007",
@@ -853,6 +983,12 @@
           "municipal_code_link": "https://qcode.us/codes/lagunabeach/view.php?topic=7-7_05&frames=on",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "Expanded Polystyrene foam is a common environmental pollutant as well as a non-biodegradable substance that is commonly used as food service ware by food vendors operating in the City of Laguna Beach",
+        "Expanded Polystyrene foam material easily breaks into smaller pieces and is so light that it floats in water and is easily carried by the wind, even when it has been disposed of properly",
+        "Marine animals and birds often confuse Expanded Polystyrene foam material for a source of food and ingestion of Expanded Polystyrene often results in reduced appetite and nutrient absorption and possible death by starvation of birds and marine animals",
+        "There are several alternatives to expanded polystyrene food service containers available from existing food packaging suppliers"
       ],
       "contact": {
         "city_clerk_email": null,
@@ -878,6 +1014,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -901,6 +1047,16 @@
           "municipal_code_link": "https://library.municode.com/ca/laguna_woods/codes/code_of_ordinances?nodeId=TIT4HESA_CH4.23PRUSEXEXPOFOSEWA",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -926,6 +1082,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -949,6 +1115,16 @@
           "municipal_code_link": "https://qcode.us/codes/losaltoshills/view.php?topic=6-7&showAll=1&frames=on",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -3413,6 +3589,15 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "Styrofoam” (polystyrene) is not biodegradable and takes an estimated 500 years to break down when discarded in landfills",
+        "New York City discards approximately 20,000 tons of Styrofoam annually, including an estimated 150 million styrofoam meal trays in the NYC school system alone",
+        "Phasing out 20,000 tons of styrofoam from the municipal waste stream would save taxpayers an estimated $1.9 million each year based on current rates",
+        "The State of California has identified the production of polystyrene (styrofoam) as creating more energy consumption, greenhouse gas emissions and total environmental impact than all other products except for aluminum",
+        "The Environmental Protection Agency has identified styrofoam production as the 5th largest creator of toxic waste in the United States",
+        "Styrene is a component of styrofoam and is largely believed to be a carcinogen and neurotoxin",
+        "The Environmental Protection Agency has never tested a human fat tissue without finding styrene in that fat tissue since 1986"
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3421,7 +3606,7 @@
   ],
   "OR": [
     {
-      "state": "NY",
+      "state": "OR",
       "name": "Portland",
       "city": "Portland",
       "county": null,
@@ -3465,6 +3650,13 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "The use of polystyrene-based and non-recyclable or non-compostable food packaging and service ware serve a limited purpose that is disproportionately detrimental to the welfare of the environment",
+        "Polystyrene-based and non-recyclable or non-compostable food packaging and service ware are often used, and disposed of, in minutes or days, the packaging takes thousands of years to decompose, and lead to devastating effects such as pollution and harm to animal life",
+        "There is no meaningful method of recycling polystyrene-based food packaging and service ware, but that alternative recyclable and compostable products exist that can serve the same purpose as polystyrene-based food packaging",
+        "Sustainability is an important goal for the citizens of Issaquah, and for Issaquah's future, and that the City has a duty to protect the environment for ourselves and our descendants",
+        "The City recognizes the present economic diffculties faced by local businesses in making a transition to recyclable or compostable food packaging and service ware and  finds that an extended timeline for implementation of this Chapter is in the best interest of assisting with local efforts at financial recovery"
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3472,8 +3664,8 @@
     },
     {
       "state": "WA",
-      "name": "",
-      "city": "",
+      "name": "Port Townsend",
+      "city": "Port Townsend",
       "county": null,
       "government_type": "city",
       "bans": [
@@ -3513,6 +3705,12 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "Costs associated with the use and disposal of expanded polystyrene food service products and disposable food service ware in Seattle creates burdens on the City's solid waste disposal system",
+        "To discourage and decrease the use of certain expanded polystyrene food service products and disposable food service ware in the city, it is necessary to regulate such use",
+        "It is in the best interest of the health, safety and welfare of the people that regulations prohibit the use of certain expanded polystyrene food service products and disposable food service ware to reduce the cost of solid waste disposal by the City and to protect the environment",
+        "Seattle has become a national leader among cities in green house gas reduction and seeks to further that effort through waste reduction and increased recycling"
+      ],
       "contact": {
         "city_clerk_email": null,
         "city_clerk_phone": null
@@ -3538,6 +3736,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,

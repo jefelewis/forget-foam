@@ -1448,19 +1448,103 @@
     },
     {
       "state": "CA",
+      "name": "Sausalito",
+      "city": "Sausalito",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1188",
+          "ordinance_title": "Environmentally Acceptable Packaging Materials",
+          "ordinance_chapter": "11.20",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "09/01/2008",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/CA/Sausalito/?Sausalito10/Sausalito1010.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Scotts Valley",
+      "city": "Scotts Valley",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "182",
+          "ordinance_title": "Environmentally Acceptable Food Packaging",
+          "ordinance_chapter": "8.01",
+          "ordinance_adoption_date": "12/03/2008",
+          "ordinance_effective_date": "06/03/2009",
+          "ordinance_link": "",
+          "municipal_code_link": "https://library.municode.com/ca/scotts_valley/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.01ENACFOPA",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Seaside",
+      "city": "Seaside",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "985",
+          "ordinance_title": "Environmentally Preferable Food Packaging",
+          "ordinance_chapter": "8.60",
+          "ordinance_adoption_date": "02/04/2010",
+          "ordinance_effective_date": "08/04/2010",
+          "ordinance_link": "http://www.codepublishing.com/CA/Seaside/html/ords/Ord985.pdf",
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=2812&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fCA%2fSeaside&HitCount=22&hits=d8+e1+101+138+145+156+17e+1f9+3ee+3f4+411+41c+45a+4fd+506+529+548+54c+567+577+60b+6cc+&SearchForm=D%3A%5Cinetpub%5Cwwwroot%5Cpublic_html%5CCA%5CSeaside%5CSeaside_formSML.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
       "name": "Sonoma County",
       "city": null,
       "county": "Sonoma",
       "government_type": null,
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "South San Francisco",
+      "city": "South San Francisco",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     },
     {
       "state": "CA",
@@ -1468,16 +1552,233 @@
       "city": null,
       "county": "Ventura",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Watsonville",
+      "city": "Watsonville",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "1245-09",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "04/14/2009",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=662&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fCA%2fWatsonville&HitCount=3&hits=456+47e+4bd+&SearchForm=html%3A%2FCA%2FWatsonville%2Fsearch_formSML.html",
+          "complete": false
+        },
+        {
+          "ban_type": null,
+          "ordinance": "1300-14",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "03/27/2014",
+          "ordinance_link": "",
+          "municipal_code_link": "http://www.codepublishing.com/search/?cmd=getdoc&DocId=662&Index=%2fvar%2flib%2fdtsearch%2fhtml%2fCA%2fWatsonville&HitCount=3&hits=456+47e+4bd+&SearchForm=html%3A%2FCA%2FWatsonville%2Fsearch_formSML.html",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "West Hollywood",
+      "city": "West Hollywood",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "90-261",
+          "ordinance_title": "Regulation Of Food Packaging",
+          "ordinance_chapter": "15.60",
+          "ordinance_adoption_date": "06/18/1990",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "https://qcode.us/codes/westhollywood/view.php?topic=15-3-15_60&showAll=1&frames=on",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "CA",
+      "name": "Yountville",
+      "city": "Yountville",
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "209-89",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     }
+  ],
+  "FL": [
+    {
+      "state": "FL",
+      "name": "Bal Harbour",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "Prohibitions Of Polystyrene ",
+          "ordinance_chapter": "11.4 ",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
+    {
+      "state": "FL",
+      "name": "",
+      "city": null,
+      "county": null,
+      "government_type": "city",
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
+    },
   ],
   "HI": [
     {
@@ -1498,7 +1799,6 @@
     }
   ],
   "NY": [
-    
     {
       "state": "NY",
       "name": "Albany County",
@@ -1523,15 +1823,19 @@
       "city": null,
       "county": "San Juan County",
       "government_type": "county",
-      "ban_type": null,
-      "ordinance": null,
-      "ordinance_title": null,
-      "ordinance_chapter": null,
-      "ordinance_adoption_date": null,
-      "ordinance_effective_date": null,
-      "ordinance_link": null,
-      "municipal_code_link": null,
-      "complete": false
+      "bans": [
+        {
+          "ban_type": null,
+          "ordinance": "",
+          "ordinance_title": "",
+          "ordinance_chapter": "",
+          "ordinance_adoption_date": "",
+          "ordinance_effective_date": "",
+          "ordinance_link": "",
+          "municipal_code_link": "",
+          "complete": false
+        }
+      ]
     }
   ],
   "STATE": [

@@ -19,6 +19,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": "cityclerk@cityofbethel.net",
         "city_clerk_phone": "(907) 543-1384"
@@ -43,6 +53,10 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "It is in the best interest of the City of Cordova to limit the littering of the environment with non-biodegradable environmentally hazardous materials",
+        "It would be cost-effective for less of this type of waste to wind up in Cordova's landfill"
+      ],
       "contact": {
         "city_clerk_email": "cityclerk@cityofcordova.net",
         "city_clerk_phone": "(907) 424-6248"
@@ -66,6 +80,16 @@
           "municipal_code_link": null,
           "complete": null
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": "cityclerk@fortyukon.us",
@@ -93,6 +117,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": "clerk@alamedaca.gov",
         "city_clerk_phone": "(510) 747-4800"
@@ -116,6 +150,16 @@
           "municipal_code_link": "",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
       ],
       "contact": {
         "city_clerk_email": null,
@@ -141,6 +185,16 @@
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
       "contact": {
         "city_clerk_email": "ahsu@albanyca.org",
         "city_clerk_phone": "(510) 528-5710"
@@ -155,16 +209,27 @@
       "bans": [
         {
           "ban_type": null,
-          "ordinance": "",
+          "ordinance": "2004-060",
           "ordinance_title": "",
           "ordinance_chapter": "",
           "ordinance_adoption_date": "",
           "ordinance_effective_date": "",
-          "ordinance_link": "",
+          "ordinance_link": "https://www.codepublishing.com/CA/AlisoViejo/ords/Ord%202004-060.pdf",
           "municipal_code_link": "",
           "complete": false
         }
       ],
+      "ordinance_text": [
+        "The litter and aesthetics problems resulting from expanded polystyrene are becoming increasingly difficult to manage and have costly negative implications for tourism,wildlife,and most recently, public storm drain systems",
+        "Expanded Polystyrene, a petroleum based product that is frequently used for food service purposes, enters the various water bodies from both direct as well as indirect sources (such as storm conveyance systems), and contributes to the degradation of the overall quality of streams, ocean waters and adjacent beach areas",
+        "Expanded Polystyrene does not effectively biodegrade (decay into constituent substance) in the environment, but merely breaks down into smaller particles, that litter the City's streets, parks, public places, and open spaces and eventually is carried to the area's beaches and ocean",
+        "A deterioration in the quality of the City's open spaces, parks, streets, and waterways can negatively affect tourism, property values, and the local economy which depends on tourist trade",
+        "Expanded Polystyrene waste poses a risk to the fragile ecological balance, since marine and land wildlife often perish as a result of ingesting Expanded Polystyrene products. This risk can occur over and over again since Expanded Polystyrene remains in the ecosystem for a very long time",
+        "The 1999-2000 Orange County Grand Jury report titled \"The Rainy Season's First Flush Hits the Harbors of Orange County\" strongly recommended that the County of Orange and the cities within it institute a procedure to substantially reduce the use of EPS within its jurisdiction",
+        "Expanded Polystyrene food service products, by their nature, have a useful life that can measured in minutes or hours, yet the material takes up valuable space in landfills for an indefinitely long period of time",
+        "There is currently no meaningful recycling of food service Expanded Polystyrene products, due in part to contamination from food residue",
+        "Alternative products, which are biodegradable, reusable and/or recyclable are readily available at a reasonable cost",
+        "The City of Aliso Viejo desires to exercise environmental stewardship by reducing the amount of expanded polystyrene debris that enters the City's storm drains, watershed and coastal environment and reducing the amount of expanded polystyrene that enters our waste stream"      ],
       "contact": {
         "city_clerk_email": "city-clerk@cityofalisoviejo.com",
         "city_clerk_phone": "(949) 425-2506"
@@ -502,7 +567,7 @@
         "Expanded polystyrene (EPS) disposable food ware has been associated with considerable environmental impacts, including being a problematic component of litter, which is unsightly and costly to clean up",
         "Littering EPS food ware can result in blocked storm drains, fouled waterways, and increased marine debris",
         "EPS food ware is commonly used by food providers in the City of El Cerrito, and has limited recycling potential",
-        "Restricting the use of EPS food ware products and replacing non- compostable, non-reusable, or non-recyclable food service ware with compostable, reusable, or recyclable food service ware products will further protect waterways and promote environmental sustainability",
+        "Restricting the use of EPS food ware products and replacing non-compostable, non-reusable, or non-recyclable food service ware with compostable, reusable, or recyclable food service ware products will further protect waterways and promote environmental sustainability",
         "Compostable food ware products such as cups, plates, bowls and hinged containers are available in local stores, are increasingly available in the food service market",
         "Many businesses in Bay Area cities engage in organics recycling and have demonstrated that the use of compostable food ware can reduce disposal costs when the products are taken to composting facilities as part of an organics recycling program rather than disposed in a landfill"
       ],
@@ -531,18 +596,25 @@
         }
       ],
       "ordinance_text": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Effective ways to reduce the negative environmental impacts of throw-away food service ware include reusing food service ware and using compostable and biodegradable take- out materials made from renewable resources such as paper, bamboo, corn starch and sugarcane",
+        "Polystyrene foam is a common environmental pollutant as well as a non- biodegradable substance that is commonly used as food service ware by food vendors operating in the City of Emeryville",
+        "There continues to be no meaningful recycling of polystyrene foam food service ware and biodegradable or compostable food service ware is an affordable, safe, more ecologically sound alternative",
+        "Affordable compostable food service ware products are increasingly available for several food service applications such as cold cups, plates and hinge containers, and these affordable alternatives are more ecologically sound than polystyrene foam materials and can be turned into a compost product",
+        "Many businesses in the City of Emeryville and neighboring cities engage in organics recycling and have demonstrated that the use of biodegradable or compostable food service ware can reduce waste disposal costs when the products are taken to composting facilities as part of an organics recycling program rather than disposed in a landfill",
+        "The natural compost product from these biodegradable or compostable materials is used as fertilizer for farms and gardens, thereby moving towards a healthier zero waste system; and",
+        "Disposable food service ware constitutes a large portion of the litter in Emeryville’s marina, streets, parks and public places, and the cost of managing this litter is high and rising",
+        "Polystyrene foam is notorious as a pollutant that breaks down into smaller, non- biodegradable pieces that are ingested by marine life and other wildlife thus harming or killing them",
+        "Due to the physical properties of polystyrene, the United States Environmental Protection Agency (EPA) states, “that such materials can also have serious impacts on human health, wildlife, the aquatic environment and the economy”",
+        "In the product manufacturing process as well as the use and disposal of the products, the energy consumption, greenhouse gas effect, and total environmental effect, polystyrene’s environmental impacts were second highest, according to the California Integrated Waste Management Board",
+        "Styrene, a component of polystyrene, is a known hazardous substance that medical evidence and the Food and Drug Administration (“FDA”) suggest may penetrate into food and drink stored in polystyrene container",
+        "Styrene is a suspected carcinogen and neurotoxin which potentially threatens human health",
+        "The general public is not typically warned of any potential hazard, particularly in the immigrant and non-English-speaking community",
+        "Due to these concerns nearly 100 cities, including several California cities, have banned polystyrene foam food service ware, and local businesses have successfully replaced polystyrene foam and other non-biodegradable food service ware with affordable, safe, biodegradable products",
+        "Restricting the use of polystyrene foam food service ware products and replacing non-biodegradable food service ware with biodegradable food service ware products will further protect the public health and safety of the residents of Emeryville, the environment, waterways and wildlife which would advance the goal of developing as a sustainable City"
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "shartz@emeryville.org",
+        "city_clerk_phone": "(510) 596-4372"
       }
     },
     {

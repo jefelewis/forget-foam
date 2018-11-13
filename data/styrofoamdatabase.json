@@ -2467,8 +2467,8 @@
         }
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "pcerny@hollywoodfl.org",
+        "city_clerk_phone": "(954) 921-3211"
       }
     },
     {
@@ -2476,7 +2476,7 @@
       "name": "Key Biscayne",
       "city": "Key Biscayne",
       "county": null,
-      "government_type": "city",
+      "government_type": "village",
       "bans": [
         {
           "ban_type": null,
@@ -2512,8 +2512,8 @@
         ""
       ],
       "contact": {
-        "city_clerk_email": null,
-        "city_clerk_phone": null
+        "city_clerk_email": "jmedina@keybiscayne.fl.gov",
+        "city_clerk_phone": "(305) 365-5506"
       }
     },
     {
@@ -2547,14 +2547,11 @@
         }
       ],
       "ordinance_text": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Expanded Polystyrene, a petroleum by-product commonly known as Styrofoam is neither readily recyclable nor biodegradable and takes hundreds of thousands of years to degrade in the environment",
+        "Expanded Polystyrene is a common pollutant, which fragments into smaller non-biodegradable pieces that are ingested by marine life and other wildlife, thus harming or killing them",
+        "Due to the physical properties of polystyrene, the EPA states, “that such materials can also have serious impacts on human health, wildlife, the aquatic environment and the economy”",
+        "Disposable food service articles constitute a portion of the litter in the City of Miami Beach’s streets, parks, public places, and waterways",
+        "The City's goal is to replace expanded polystyrene food service articles with reusable, recycable, or compostable alternatives within the City"
       ],
       "contact": {
         "city_clerk_email": "cityclerk@citynmb.com",

@@ -285,10 +285,16 @@
           "ordinance_chapter": "31.11",
           "ordinance_adoption_date": "03/01/2011",
           "ordinance_effective_date": "10/01/2012",
-          "ordinance_link": "https://library.municode.com/ca/belmont/codes/code_of_ordinances?nodeId=CICO_CH31WARE_ARTIIPOFOSEWA_S31-11ADSAMACOORCOCH4.107PRUSPOBADIFOSEWAFOVE",
-          "municipal_code_link": "https://www.belmont.gov/home/showdocument?id=68",
+          "ordinance_link": "https://www.belmont.gov/home/showdocument?id=68",
+          "municipal_code_link": "https://library.municode.com/ca/belmont/codes/code_of_ordinances?nodeId=CICO_CH31WARE_ARTIIPOFOSEWA_S31-11ADSAMACOORCOCH4.107PRUSPOBADIFOSEWAFOVE",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "Polystyrene is a petroleum-based, lightweight plastic material commonly used as food service ware by retail food vendors operating in the City of Belmont. Polystyrene, often referred to by the trademark Styrofoam, has also become a problematic environmental pollutant given its non-biodegradable, and nearly non-reusable nature",
+        "Polystyrene-based, single-use food service ware constitutes a substantial portion ofthe litter found on streets, streams, creeks, and in the City of Belmont's storm drain system",
+        "Effective ways to reduce the negative environmental impacts ofdisposable food service ware include reusing or recycling food service ware and using compostable materials made from renewable resources such as paper, cardboard, com starch, potato starch, or sugarcane",
+        "The use ofpolystyrene-based disposable food service ware by food vendors should be restricted"
       ],
       "contact": {
         "city_clerk_email": "cclerk@belmont.gov",
@@ -313,6 +319,16 @@
           "municipal_code_link": "http://www.codepublishing.com/CA/Berkeley/html/Berkeley11/Berkeley1160/Berkeley1160.html",
           "complete": false
         }
+      ],
+      "ordinance_text": [
+        "Solid waste that is non-degradable or non-recyclable poses an acute problem for any environmentally and financially responsible program of solid waste management. Such waste covers the City's streets, parks, public places, and open spaces. It enters the marine and natural environment and is ingested by aquatic wildlife, frequently causing death. There is resultant damage to the ecological balance",
+        "Products which are degradable or recyclable offer environ- mentally sound alternatives or non-degradable and non-recyclable products currently used. By decaying into their constituent substances, degradable products, compared to their non-degradable equivalents, are less of a danger to the natural environment, and less of a permanent blight on the urban landscape. Recycling of products reduces costly waste of natural resources and energy used in production of new products as well as costly disposal of waste in landfills",
+        "Polystyrene foam is a petroleum processing by-product. Oil is a non-renewable resource, which can only be obtained by increasingly hazardous methods such as off-shore drilling, which poses significant dangers to the environment. Alternative products which are degradable or recyclable pose far less overall hazards than continued and expanded reliance on oil-based products.",
+        "Evidence indicates that all blowing agents currently used or proposed in connection with the manufacture of polystyrene foam pose dangers to the environment. Beyond the generally acknowledged dangers of Chlorofluorocarbons (CFCs) to the ozone layer, which are addressed in another City of Berkeley ordinance, other blowing agents also create dangers. For example, the blowing agent pentane creates hazardous earth-level smog and has already been restricted in some regions for air quality reasons",
+        "Takeout food packaging constitutes the single greatest source of litter in Berkeley and is a significant contributor to the total amount of waste entering the City's waste stream",
+        "It is in the interest of the health, safety, and welfare of all who live, work and do business in the City that the amount of litter on the public streets, parks, public places, and open spaces be reduced",
+        "The City of Berkeley has the duty to responsibly dispose of its solid waste, yet existing landfill sites are rapidly approaching capacity, and additional sites are increasingly unavailable",
+        "Reduction of the amount of non-degradable waste entering the waste stream and encouraging the use of recyclable containers further this goal"
       ],
       "contact": {
         "city_clerk_email": "clerk@cityofberkeley.info",

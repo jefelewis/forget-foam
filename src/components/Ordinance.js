@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 
 // Imports: Data
-import OrdinanceData from '../data/styrofoamdatabase2.json'
+import OrdinanceData from '../data/styrofoamordinances.json'
 
 // React Component: Ordinance
 class Ordinance extends Component {

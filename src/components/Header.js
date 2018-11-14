@@ -2,11 +2,11 @@
 import React from 'react'
 
 // Component: Header
-const Footer = () => (
+const Header = () => (
   <div id="header">
     <img src="/static/ForgetFoamLogo.png"></img>
   </div>
 )
 
 // Exports
-export default Footer
+export default Header

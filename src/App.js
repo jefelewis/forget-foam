@@ -9,7 +9,6 @@ import './css/header.css'
 import './css/ordinance.css'
 
 // Imports: Components
-
 import Footer from './components/Footer'
 import Header from './components/Header'
 import Ordinance from './components/Ordinance'

@@ -1,7 +1,7 @@
 // Imports: Dependencies
 import React from 'react'
 
-// Component: Header
+// Component: Footer
 const Footer = () => (
   <div id="footer">
     <img src="/static/ForgetFoamLogo.png"></img>
